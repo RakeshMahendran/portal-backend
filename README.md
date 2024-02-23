@@ -1,6 +1,6 @@
-# Project Name
+# Student Job Portal Backend
 
-Brief description or introduction to your project.
+This repository contains the backend code for the Student Job Portal project.
 
 ## Getting Started
 
